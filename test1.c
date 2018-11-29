@@ -4,4 +4,5 @@
 void main()
 {
     printf("Test");
+    printf("test2);
 }
